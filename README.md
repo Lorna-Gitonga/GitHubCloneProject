@@ -1,7 +1,1 @@
-This is the description of my repo
-<<<<<<< HEAD
-Modification in main branch.
-Another modification in main branch.
-=======
-Another modification in feature-greeting branch.
->>>>>>> feature-greeting
+Objective: Practice creating branches for feature development, merging branches, and resolving merge conflicts to simulate a common collaborative workflow on Git and GitHub.
